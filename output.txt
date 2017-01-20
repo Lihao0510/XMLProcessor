@@ -1,0 +1,8 @@
+@BindView(R.id.iv_banner)
+Banner iv_banner;
+
+@BindView(R.id.stv_notice)
+ScrollTextView stv_notice;
+
+@BindView(R.id.gv_gridbutton)
+NoScrollGridView gv_gridbutton;
