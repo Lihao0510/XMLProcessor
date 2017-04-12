@@ -1,0 +1,26 @@
+<Table id="Table2" rowOrder="1">
+    <storeID>S201703000005</storeID>
+    <storeStatus>1</storeStatus>
+    <storeName>中百超市</storeName>
+    <phone>027-88886666</phone>
+    <storeType>4</storeType>
+    <storeTypeDesc>五金</storeTypeDesc>
+    <storeDesc>中百超市百货</storeDesc>
+    <productNum>2</productNum>
+    <storeGrade>3</storeGrade>
+    <storeGradeDesc>三级</storeGradeDesc>
+    <storeAddress>大学园路化学村1</storeAddress>
+    <postCode>430000</postCode>
+    <ownerID>U201703002</ownerID>
+    <ownerName>吴涛</ownerName>
+    <ownerMobile>027-8181454</ownerMobile>
+    <contactID>U201610002</contactID>
+    <contactName>卢苇</contactName>
+    <contactMobile>027-8486888</contactMobile>
+    <contactAddress>大学园路万科城市花园</contactAddress>
+    <attach>S201703000005</attach>
+    <attachJson>{"rowNum":"6","filename":"admin_ban.bmp","uid":"/Upload/store/201704/27b5758b-0020-4e71-b0fd-8301a6444936.bmp","title":"店铺图片1","size":"37244","type":".bmp","uploadTime":"2017-04-06 18:34:00","fileLog":""}</attachJson>
+    <createDate>2017-03-22 12:02:00</createDate>
+    <createrID>U201609010</createrID>
+    <creater>张明丽</creater>
+</Table>

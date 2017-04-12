@@ -1,8 +1,33 @@
-@BindView(R.id.iv_banner)
-Banner iv_banner;
+@BindView(R.id.building_name)
+TextView building_name;
 
-@BindView(R.id.stv_notice)
-ScrollTextView stv_notice;
+@BindView(R.id.house_name)
+TextView house_name;
 
-@BindView(R.id.gv_gridbutton)
-NoScrollGridView gv_gridbutton;
+@BindView(R.id.seller_renter)
+TextView seller_renter;
+
+@BindView(R.id.house_owner)
+TextView house_owner;
+
+@BindView(R.id.house_owner_phone)
+TextView house_owner_phone;
+
+@BindView(R.id.house_price)
+TextView house_price;
+
+@BindView(R.id.pay_rent)
+TextView pay_rent;
+
+@BindView(R.id.house_area)
+TextView house_area;
+
+@BindView(R.id.pay_type)
+TextView pay_type;
+
+@BindView(R.id.house_desc)
+TextView house_desc;
+
+@BindView(R.id.gallery_list)
+RecyclerView gallery_list;
+
